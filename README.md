@@ -11,6 +11,7 @@ The
 ### Requirements
 --------
 *  A valid Sports Tracker account
+*  Python 3 installed
 *  Python packages installed (requests, json, xml.etree)
 
 The script is pretty simple and currently supporting (walking, running, cycling, hiking, other) activity types.
