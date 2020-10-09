@@ -1,8 +1,6 @@
 # SportsTracker_activity_export
 This repository hosts a small project related to activity export from Sports Tracker (sports-tracker.com). At the moment, there is no way to mass export activities from Sports Tracker provided by the company and this small script solves the issue. The script exports all Sports Tracker acitivities to **.gpx** files, compatible with Strava, Garmin and other services.
 
-The
-
 ### Repository content
 --------
 *  main.py file - Program init
