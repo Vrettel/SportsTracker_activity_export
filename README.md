@@ -17,3 +17,5 @@ In order to use the program, an **authentication token** is needed that must be 
 
 ### How to run
 --------
+From the command line run:
+python spt_export.py -t <your authentication token> -o <output file directory>
